@@ -1,3 +1,7 @@
+##Rag-using-fastapi
+
+
+
 ## Project Description
 
 A high-performance Retrieval-Augmented Generation (RAG) system utilizing **FastAPI** for a decoupled, asynchronous backend API and **Streamlit** for an intuitive user dashboard. It processes PDF uploads, manages localized semantic search using **FAISS**, and executes ultra-low-latency LLM inference via **Groq**.
